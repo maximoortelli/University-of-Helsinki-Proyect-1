@@ -62,8 +62,20 @@ To improve code quality and maintain good development practices, I have incorpor
       <a href="https://react.dev/">React.js</a>
     </li>
     <li>
+      <img width="50"  height="auto" src="./src/assets/vite.svg"/>
+      <a href="https://vitejs.dev/">Vite</a>
+    </li>
+    <li>
       <img src="https://skillicons.dev/icons?i=js"/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+    </li>
+    <li>
+      <img width="50"  height="auto" src="./src/assets/node.png"/>
+      <a href="https://nodejs.org/en">Node.js</a>
+    </li>
+    <li>
+      <img width="50"  height="auto" src="./src/assets/eslint.png"/>
+      <a href="https://eslint.org/">ESLint</a>
     </li>
     <li>
       <img src="https://skillicons.dev/icons?i=css"/>
@@ -73,10 +85,7 @@ To improve code quality and maintain good development practices, I have incorpor
       <img src="https://skillicons.dev/icons?i=html"/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
     </li>
-      <li>
-      <img width="50"  height="auto" src="./src/assets/vite.svg"/>
-      <a href="https://vitejs.dev/">Vite</a>
-    </li>
+    
   </ul>
 
 ---
