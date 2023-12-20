@@ -74,7 +74,7 @@ To improve code quality and maintain good development practices, I have incorpor
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
     </li>
       <li>
-      <img src="./src/assets/vite.svg"/>
+      <img width="50"  height="auto" src="./src/assets/vite.svg"/>
       <a href="https://vitejs.dev/">Vite</a>
     </li>
   </ul>
